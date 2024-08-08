@@ -13,10 +13,7 @@ namespace Bases
             //Además, se desea saber el promedio de calificación de los clientes.
             //Cuando el cliente ingrese un valor menor a 1 o mayor a 10, se debe mostrar un mensaje de error y volver a pedir la calificación.
 
-
-
-
+        
         }
-  
     }
 }
